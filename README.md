@@ -18,6 +18,9 @@
   <li>Chatbot: Dialogflow</li>
   <li>Integration: iframe for embedding the chatbot</li>
 </ul>
+<h3>## Live Demo</h3>
+<p>Check out the live version of the project by clicking on the below link</p>
+ (https://anvesharaikwar.github.io/Suddoku-Solver/)
 <h3>What You Can Learn From This Project</h3>
 <p>This project provides a hands-on experience in building a complete web application with integrated chatbot functionality. Key takeaways include:</p>
 
