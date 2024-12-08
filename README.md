@@ -3,36 +3,52 @@
 </p>
 
 <h3>Features</h3>
-Dynamic User Interface: Clean and responsive design built with HTML, CSS, and JavaScript.
-Eira Chatbot: A Dialogflow-powered chatbot to guide users through the ordering process and provide real-time support.
-Order Tracking: Users can retrieve order details effortlessly with chatbot assistance.
-Diverse Menu: Explore and order from a variety of cuisines quickly and easily.
-Technologies Used
-Frontend: HTML, CSS, JavaScript
-Backend: Python, FastAPI
-Database: MySQL (SQL)
-Chatbot: Dialogflow
-Integration: iframe for embedding the chatbot
-What You Can Learn From This Project
-This project provides a hands-on experience in building a complete web application with integrated chatbot functionality. Key takeaways include:
+<ul>
+  <li>Dynamic User Interface: Clean and responsive design built with HTML, CSS, and JavaScript.</li>
+  <li>Eira Chatbot: A Dialogflow-powered chatbot to guide users through the ordering process and provide real-time support.</li>
+  <li>Order Tracking: Users can retrieve order details effortlessly with chatbot assistance.</li>
+  <li>Diverse Menu: Explore and order from a variety of cuisines quickly and easily.</li>
+</ul>
 
-Frontend Development:
+<h3>Technologies Used</h3>
+<ul>
+  <li>Frontend: HTML, CSS, JavaScript</li>
+  <li>Backend: Python, FastAPI</li>
+  <li>Database: MySQL (SQL)</li>
+  <li>Chatbot: Dialogflow</li>
+  <li>Integration: iframe for embedding the chatbot</li>
+</ul>
+<h3>What You Can Learn From This Project</h3>
+<p>This project provides a hands-on experience in building a complete web application with integrated chatbot functionality. Key takeaways include:</p>
 
-How to design a responsive and visually appealing user interface using HTML, CSS, and JavaScript.
-Implementing flexbox layouts, overlays, and embedding external components like iframes.
-Backend Integration:
+<ol>
+ <li> Frontend Development:
+   <ul>
+     <li> How to design a responsive and visually appealing user interface using HTML, CSS, and JavaScript.</li>
+      <li>Implementing flexbox layouts, overlays, and embedding external components like iframes.</li>
+   </ul>
+  </li>
+  
+  <li>Backend Integration:
+    <ul>
+      <li>Setting up a FastAPI backend for handling server-side logic.</li>
+      <li>Connecting to and managing a MySQL database for storing and retrieving data.</li>
+    </ul>
+  </li>
+  
+  <li>Chatbot Development:
+    <ul>
+      <li>Creating and deploying an AI-powered chatbot using Dialogflow for seamless user interaction.</li>
+      <li>Embedding a chatbot in a web application via iframe integration.</li>
+    </ul>
+  </li>
 
-Setting up a FastAPI backend for handling server-side logic.
-Connecting to and managing a MySQL database for storing and retrieving data.
-Chatbot Development:
+  <li>Project Structuring:
+    <ul>
+      <li>Organizing project files and folders for scalability and maintainability.</li>
+      <li>Writing a clear and professional README file for documentation.</li>
+    </ul>
+  </li>
 
-Creating and deploying an AI-powered chatbot using Dialogflow for seamless user interaction.
-Embedding a chatbot in a web application via iframe integration.
-Full-Stack Workflow:
+</ol>
 
-Coordinating frontend and backend development.
-Using GitHub to manage and collaborate on projects effectively.
-Project Structuring:
-
-Organizing project files and folders for scalability and maintainability.
-Writing a clear and professional README file for documentation.
